@@ -57,7 +57,8 @@ d.	Notification required
 
 
 Entity mapping 
-<img width="975" height="715" alt="image" src="https://github.com/user-attachments/assets/b94e973b-c42f-4cbd-8bd6-08d1ab5bcef1" />
+<img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/d03f7f8c-e881-4612-8272-5ad33d13e45f" />
+
 
 
 
